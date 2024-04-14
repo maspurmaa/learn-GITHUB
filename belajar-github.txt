@@ -2,5 +2,6 @@ Belajar Github pertama kali, 14 April 2024
 Resolusiku
 - Konsisten belajar untuk menjadi frontend developer
 - Belajar javascript dasar
-- Belajar framework FE
+- Belajar Node.js
+- Belajar Express.js
 
